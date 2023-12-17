@@ -12,7 +12,7 @@ We also incorporated a firebase RealTimeDataBase to store the location of busses
 # WHO ARE "WE"
 
 - Geevarghese Regi (me)
-- Jacob Jayan -
+- Jacob Jayan - https://github.com/Root1001
 - Abraham Manoj - https://github.com/Abraham-Manoj
 - Rinza Yunus - https://github.com/rrinuiee
 
